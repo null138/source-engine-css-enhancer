@@ -14,7 +14,7 @@
 
    - log_folders ("maps", "sound", "models", "materials") – Specifies which folders to monitor and clean if auto-clean is enabled.
 
-   - auto_clean_session ("1") – Tracks files downloaded during the current game session and automatically removes them when the game or core executable is closed. 1 = On, 0 = Off.
+   - auto_clean_session ("0") – Tracks files downloaded during the current game session and automatically removes them when the game or core executable is closed. 1 = On, 0 = Off.
 
    - auto_clean_always ("0") – Clears all files that have ever been downloaded from servers when the module starts. 1 = On, 0 = Off.
 
@@ -36,7 +36,7 @@
 
    - log_folders ("maps", "sound", "models", "materials") – Указывает, какие папки отслеживать и очищать, если включена автоочистка.
 
-   - auto_clean_session ("1") – Отслеживает файлы, загруженные в текущей игровой сессии, и автоматически удаляет их при закрытии игры или ядра. 1 = Включено, 0 = Выключено.
+   - auto_clean_session ("0") – Отслеживает файлы, загруженные в текущей игровой сессии, и автоматически удаляет их при закрытии игры или ядра. 1 = Включено, 0 = Выключено.
 
    - auto_clean_always ("0") – Очищает все файлы, когда-либо загруженные с серверов, при запуске модуля. 1 = Включено, 0 = Выключено.
 
