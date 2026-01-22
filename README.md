@@ -66,6 +66,12 @@
 
 <img src="FastDL_Fallback.png" alt="FastDL_Fallback" width="700">
 
+***[ANY] Server Files***:
+- Monitors and logs files downloaded from the server in real time, printing them to the core console.
+- Optionally, based on the configuration, the script can automatically clean downloaded files either from the current session when you close the game or perform a full cleanup of all previously downloaded files on the script launch.
+
+<img src="serverfiles.png" alt="ServerFiles" width="700">
+
 # Partially ready
 
 ***[ANY] Fake / Mirror server remover (full code for both host and local tool are ready)***:
@@ -159,6 +165,12 @@
 [Полная информация и руководство](https://github.com/null138/source-engine-css-enhancer/tree/main/src_modules/FastDL%20Fallback#ru)
   
 <img src="FastDL_Fallback.png" alt="FastDL_Fallback" width="600">
+
+***[ANY] Server Files***:
+- Отслеживает и логирует файлы, загружаемые с сервера в реальном времени, выводя их в консоль ядра.
+- Опционально, в зависимости от настроек, скрипт может автоматически очищать загруженные файлы: либо только из текущей игровой сессии при закрытии игры, либо выполнять полную очистку всех ранее загруженных файлов при запуске модуля.
+
+<img src="serverfiles.png" alt="ServerFiles" width="700">
 
 # Частично готово
 
