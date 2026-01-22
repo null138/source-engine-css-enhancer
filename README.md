@@ -1,6 +1,6 @@
 # source-engine-css-enhancer
 # [EN]
-***Author***: **Madness (null138)** | [Steam Profile](http://steamcommunity.com/profiles/76561198098349799)
+***Author***: **Madness (null138)** | [Steam Profile](http://steamcommunity.com/profiles/76561198098349799) | [Discord Server](https://discord.gg/SHW82GMrV4)
 
 [CS:S] Counter-Strike: Source Enhancer (CS:S Enhancer)
 
@@ -101,7 +101,7 @@
 <hr>
 
 # [RU/РУССКИЙ]
-***Автор***: **Madness (null138)** | [Профиль Steam](http://steamcommunity.com/profiles/76561198098349799)
+***Автор***: **Madness (null138)** | [Профиль Steam](http://steamcommunity.com/profiles/76561198098349799) | [Discord Сервер](https://discord.gg/SHW82GMrV4)
 
 [CS:S] Counter-Strike: Source Enhancer (CS:S Enhancer)
 
