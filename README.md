@@ -70,6 +70,8 @@
 - Monitors and logs files downloaded from the server in real time, printing them to the core console.
 - Optionally, based on the configuration, the script can automatically clean downloaded files either from the current session when you close the game or perform a full cleanup of all previously downloaded files on the script launch.
 
+[Full information and guide](https://github.com/null138/source-engine-css-enhancer/tree/main/src_modules/Server%20Files#en)
+
 <img src="serverfiles.png" alt="ServerFiles" width="700">
 
 # Partially ready
@@ -169,6 +171,8 @@
 ***[ANY] Server Files***:
 - Отслеживает и логирует файлы, загружаемые с сервера в реальном времени, выводя их в консоль ядра.
 - Опционально, в зависимости от настроек, скрипт может автоматически очищать загруженные файлы: либо только из текущей игровой сессии при закрытии игры, либо выполнять полную очистку всех ранее загруженных файлов при запуске модуля.
+
+[Полная информация и руководство](https://github.com/null138/source-engine-css-enhancer/tree/main/src_modules/Server%20Files#ru)
 
 <img src="serverfiles.png" alt="ServerFiles" width="700">
 
