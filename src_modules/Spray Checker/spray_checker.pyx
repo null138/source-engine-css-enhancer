@@ -195,10 +195,10 @@ def handle_detected_file(file_path: Path, reason: str, protected=False):
 	
 		rel_path_str = str(rel_path).replace("\\", "/")
 
-		module_print("[Crashing Spray] ", "cyan")
+		module_print("\n[Crashing Spray] ", "cyan")
 		module_print(f"user_custom/{rel_path_str} | ", "gray")
 		module_print(f"{reason}. ", "blue")
-		module_print(f"{suffix_text}\n", suffix_color)
+		module_print(f"{suffix_text}", suffix_color)
 
 	except Exception as e:
 		module_print(f"Failed to move file: {file_path} -> {e}", "red")

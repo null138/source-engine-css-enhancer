@@ -216,7 +216,6 @@ def process_bsp(bsp_path):
 		with open(bsp_path, "rb") as f:
 			ident, version = read_struct(f, "<II")
 			if ident != 0x50534256:
-				module_print(f"{bsp_name} is not a BSP file", "red")
 				return 0
 
 			lumps = [read_struct(f, "<IIII") for _ in range(64)]
@@ -297,7 +296,6 @@ def process_bsp(bsp_path):
 					textures_to_create.add(texname)
 
 	except Exception as e:
-		module_print(f"Failed to process map {bsp_name}: {e}", "red")
 		return 0
 
 	created_count = 0
@@ -310,7 +308,7 @@ def process_bsp(bsp_path):
 def run():
 	global bsp_paths
 	time.sleep(1.0) # temp solution. we need to load the modules in order instead of loading everything at once
-	module_print("[SnowFX] ", "cyan")
+	module_print("\n[WinterFX] ", "cyan")
 	module_print("Processing maps...\n", "red")
 
 	total_textures = 0
@@ -327,7 +325,7 @@ def run():
 		for bsp_path in bsp_paths:
 			f.write(bsp_path.stem + "\n")
 
-	module_print("[SnowFX] ", "cyan")
+	module_print("\n[WinterFX] ", "cyan")
 	module_print(f"Created {total_textures} snow textures for {total_maps} maps.\n", "green")
 
 	del bsp_paths
