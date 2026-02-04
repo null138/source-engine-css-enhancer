@@ -1,7 +1,7 @@
 # [EN]
 ***[ANY] DiscordRPC***:
 - Updates your Discord activity with the live game server you’re playing on, showing server name, map, player count, and a join button for friends.
-<img src="../../DiscordRPC.png" alt="DiscordRPC" width="500">
+<img src="../../DiscordRPC.png" alt="DiscordRPC" width="400">
 
 **Warning:**
 - Updates occur every 15 seconds to avoid spamming the server.
@@ -18,7 +18,7 @@
 # [RU]
 ***[ANY] DiscordRPC***:
 - Обновляет вашу активность в Discord с информацией о сервере, на котором вы играете, показывая название сервера, карту, количество игроков и кнопку для присоединения друзей.
-<img src="../../DiscordRPC.png" alt="DiscordRPC" width="500">
+<img src="../../DiscordRPC.png" alt="DiscordRPC" width="400">
 
 **Внимание:**
 - Обновления происходят каждые 15 секунд, чтобы не перегружать сервер.
