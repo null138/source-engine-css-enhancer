@@ -15,7 +15,7 @@ init(autoreset=True)
 
 # update reminder. do not change this link
 GITHUB_REPO = "null138/source-engine-css-enhancer"
-CSS_ENHANCER_VERSION = "1.1release"
+CSS_ENHANCER_VERSION = "1.2release"
 
 CONFIG_PATH = Path("css_enhancer_config.json")
 MODULE_FOLDER = Path("modules")
