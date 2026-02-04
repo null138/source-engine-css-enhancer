@@ -51,6 +51,13 @@
 
 <img src="player_overlay_demo.png" alt="Player Overlay" width="300">
 
+***[ANY] DiscordRPC***:
+- Updates your Discord activity with the live game server you’re playing on, showing server name, map, player count, and a join button for friends.
+
+[Full information and guide](https://github.com/null138/source-engine-css-enhancer/tree/main/src_modules/DiscordRPC#en)
+
+<img src="DiscordRPC.png" alt="DiscordRPC" width="400">
+
 ***[ANY] Spray crash prevention***:
 - Detects and removes crashing sprays uploaded by other players, preventing those sprays from crashing your client. (Note: a new exploit was discovered by the project author that servers cannot protect against — this feature protects the local client.)
 
@@ -151,6 +158,13 @@
 [Полная информация и руководство](https://github.com/null138/source-engine-css-enhancer/tree/main/src_modules/Players%20List%20HUD#ru)
 
 <img src="player_overlay_demo.png" alt="Player Overlay" width="300">
+
+***[ANY] DiscordRPC***:
+- Обновляет вашу активность в Discord с информацией о сервере, на котором вы играете, показывая название сервера, карту, количество игроков и кнопку для присоединения друзей.
+
+[Полная информация и руководство](https://github.com/null138/source-engine-css-enhancer/blob/main/src_modules/Spray%20Checker/README.md#ru)
+
+<img src="DiscordRPC.png" alt="DiscordRPC" width="400">
 
 ***[ANY] Spray crash prevention***:
 - Обнаруживает и удаляет крашащие спреи, загруженные другими игроками, предотвращая вылет клиента.  
