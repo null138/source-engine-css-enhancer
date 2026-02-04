@@ -162,7 +162,7 @@
 ***[ANY] DiscordRPC***:
 - Обновляет вашу активность в Discord с информацией о сервере, на котором вы играете, показывая название сервера, карту, количество игроков и кнопку для присоединения друзей.
 
-[Полная информация и руководство](https://github.com/null138/source-engine-css-enhancer/blob/main/src_modules/Spray%20Checker/README.md#ru)
+[Полная информация и руководство](https://github.com/null138/source-engine-css-enhancer/tree/main/src_modules/DiscordRPC#ru)
 
 <img src="DiscordRPC.png" alt="DiscordRPC" width="400">
 
