@@ -3,7 +3,7 @@
 **Compile the core into an executable using the following command:**
 
 ```
-pyinstaller --noconsole --onefile css_enhancer.py ^ 
+pyinstaller --noconsole --onefile css_enhancer.py ^
 --hidden-import=colorsys ^
 --hidden-import=tkinter.font ^
 --hidden-import=win32gui ^
@@ -12,12 +12,11 @@ pyinstaller --noconsole --onefile css_enhancer.py ^
 --hidden-import=watchdog.events ^
 --hidden-import=psutil ^
 --hidden-import=pydirectinput ^
---add-data "site-packages\watchdog;watchdog" ^
---add-data "site-packages\pywin32_system32;pywin32_system32" ^
---add-data "site-packages\psutil;psutil" ^
---add-data "site-packages\pydirectinput;pydirectinput" ^
+--hidden-import=a2s ^
+--collect-submodules pypresence ^
 --add-data "lang;lang" ^
---noupx --icon=csench.ico --add-data "csench.ico;."
+--add-data "csench.ico;." ^
+--noupx --icon=csench.ico
 ```
 
 **Keep the icon file next to the .py to compile** 
