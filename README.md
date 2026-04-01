@@ -1,5 +1,5 @@
 # source-engine-css-enhancer
-[Перейти к русс. | Go to RU](https://github.com/null138/source-engine-css-enhancer?tab=readme-ov-file#ruрусский)
+[Перейти к русс. | Jump to RU](https://github.com/null138/source-engine-css-enhancer?tab=readme-ov-file#ruрусский)
 
 # [EN]
 ***Author***: **Madness (null138)** | [Steam Profile](http://steamcommunity.com/profiles/76561198098349799) | [Discord Server](https://discord.gg/SHW82GMrV4)
